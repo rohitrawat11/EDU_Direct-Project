@@ -15,3 +15,10 @@ Take a look at the "Sales Performance Metrics Dashboard," the final result of da
 Here's a snapshot of the data after it has been meticulously cleaned and organized using Excel. This visualization showcases how raw data has been transformed into a more understandable and actionable format.
 
 ![EDU_Direct-Project_Processed data](https://github.com/rohitrawat11/EDU_Direct-Project/assets/145645977/3f0a28a0-ab3b-4762-8061-0187a7093abf)
+
+## Contact
+
+Let's connect and explore how the "Sales Performance Metrics Dashboard" can unlock valuable insights for your business. I'm excited to discuss opportunities for collaboration and how we can maximize the potential of your data resources.
+
+- LinkedIn: https://www.linkedin.com/in/rohit-singh-rawat07/
+- Email: rohitrawat3003@gmail.com
